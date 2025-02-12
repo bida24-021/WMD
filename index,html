@@ -1,0 +1,20 @@
+<!Doctype html>
+<html>
+   <head>
+      <title>Homw</title>
+      <meta charset="utf-8"
+      <style>
+      </style>
+   </head>
+  <body>
+    <h1>Welcome to the world of the Web</h1>
+  <p>
+  <h2>Web development technique</h2>
+    <ol id=oltech>Technologies
+    <li>HTML5</li>
+    <li>CSS</li>
+    <li>Javascript</li>
+    <li>AJAX<li>
+    </ol>
+ </body>
+ </html>
